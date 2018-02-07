@@ -1,0 +1,1 @@
+# Slope-form-triangular-Discrete-Cosine-Transform-for-Face-Recognition
