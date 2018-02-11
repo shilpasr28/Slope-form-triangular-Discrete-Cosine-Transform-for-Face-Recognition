@@ -231,13 +231,8 @@ for n=1:tests
     
 %Feature Extraction
     
-%    [ca ch cv cd]=dwt2(img,'haar');
-%    [ca ch cv cd]=dwt2(ca,'haar');
-   %[ca ch cv cd]=dwt2(ca,'haar');
-   % [ca ch cv cd]=dwt2(ca ,'haar');
     pic=dct2(img);
-    %pic=ca;  
-    %pic_dct=reshape(pic(1:24,1:16),1,384);
+
 %Triangular-shaped feature extraction
 I=pic;
 u=zeros(1,400);
