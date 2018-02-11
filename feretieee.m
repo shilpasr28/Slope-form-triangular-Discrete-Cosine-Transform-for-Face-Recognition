@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Name: Shilpashree Rao
-%Email id: shilpasr@usc.edu
+%Email id: shilparao.aqu@gmail.com
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
